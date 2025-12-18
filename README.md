@@ -12,7 +12,7 @@ This project aims to answer one powerful question:
 Can we predict a video game’s performance using data before players even pick up the controller?
 
 Using a structured Machine Learning pipeline, I analyze a rich video game dataset and apply Logistic Regression to classify and predict outcomes based on multiple features that influence user experience and engagement.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Project Vision
 
 The idea behind this project is to bridge the gap between game design decisions and data-driven intelligence.
@@ -27,11 +27,11 @@ Improve game quality
 Optimize pricing and features
 
 Reduce risk before release
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚙️ Machine Learning Approach
 
 The project follows a complete end-to-end ML workflow:
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Data preprocessing and feature selection
 
 📊 Exploratory Data Analysis to uncover trends
@@ -39,7 +39,7 @@ The project follows a complete end-to-end ML workflow:
 🤖 Logistic Regression model building
 
 🎯 Probability-based predictions using predict_proba()
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Model evaluation using:
 
 Accuracy Score
@@ -51,7 +51,7 @@ ROC Curve
 ROC-AUC Score
 
 Instead of relying only on accuracy, the project focuses on model reliability, confidence, and class separation, making the evaluation more robust and realistic.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Model Evaluation Philosophy
 
 Accuracy alone does not tell the full story.
@@ -64,7 +64,7 @@ ROC Curve to visualize model performance across thresholds
 ROC-AUC Score to measure how well the model distinguishes between classes
 
 This ensures the model is not just accurate — but intelligent and trustworthy.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Why This Project Matters
 
 Video games are more than entertainment — they are a multi-billion-dollar data ecosystem.
@@ -79,7 +79,7 @@ Machine Learning Engineering
 Product Analytics
 
 Game Analytics
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Tech Stack Used
 
 Python
@@ -91,10 +91,11 @@ Scikit-learn
 Matplotlib
 
 Jupyter Notebook
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌟 Final Thought
 
 This project proves that before a game reaches players, it can already be understood by data.
 By turning pixels into predictions, this work showcases how Machine Learning can unlock insights hidden inside virtual worlds.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎮 Data is the new joystick — and Machine Learning is the ultimate power-up.
